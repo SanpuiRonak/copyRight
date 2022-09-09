@@ -1,0 +1,4 @@
+data/com.github.sanpuironak.copyright.desktop.in
+data/com.github.sanpuironak.copyright.appdata.xml.in
+data/com.github.sanpuironak.copyright.gschema.xml
+src/window.ui
